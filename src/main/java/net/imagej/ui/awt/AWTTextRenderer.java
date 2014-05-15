@@ -1,4 +1,3 @@
-package net.imagej.ui.awt;
 /*
  * #%L
  * ImageJ software for multidimensional image processing and analysis.
@@ -30,7 +29,7 @@ package net.imagej.ui.awt;
  * #L%
  */
 
-
+package net.imagej.ui.awt;
 
 import java.awt.Dimension;
 import java.awt.Font;
@@ -42,8 +41,6 @@ import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 
 import net.imagej.render.TextRenderer;
-import net.imagej.render.TextRenderer.FontFamily;
-import net.imagej.render.TextRenderer.FontStyle;
 
 /**
  * The AWT implementation of the TextRenderer interface. TODO - relocate to
