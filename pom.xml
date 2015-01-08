@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>imagej-ui-awt</artifactId>
-	<version>0.2.2-SNAPSHOT</version>
+	<version>0.3.0</version>
 
 	<name>ImageJ UI: AWT</name>
 	<description>ImageJ UI for Java AWT.</description>
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/imagej/imagej-ui-awt</connection>
 		<developerConnection>scm:git:git@github.com:imagej/imagej-ui-awt</developerConnection>
-		<tag>HEAD</tag>
+		<tag>imagej-ui-awt-0.3.0</tag>
 		<url>https://github.com/imagej/imagej-ui-awt</url>
 	</scm>
 	<issueManagement>
