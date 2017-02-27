@@ -1,4 +1,4 @@
-[![](http://jenkins.imagej.net/job/ImageJ-UI-AWT/lastBuild/badge/icon)](http://jenkins.imagej.net/job/ImageJ-UI-AWT/)
+[![](https://travis-ci.org/imagej/imagej-ui-awt.svg?branch=master)](https://travis-ci.org/imagej/imagej-ui-awt)
 
 ImageJ AWT UI
 -------------
