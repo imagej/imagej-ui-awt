@@ -11,7 +11,7 @@
 
 	<groupId>net.imagej</groupId>
 	<artifactId>imagej-ui-awt</artifactId>
-	<version>0.3.1-SNAPSHOT</version>
+	<version>0.3.1</version>
 
 	<name>ImageJ UI: AWT</name>
 	<description>ImageJ UI for Java AWT.</description>
@@ -83,7 +83,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/imagej/imagej-ui-awt</connection>
 		<developerConnection>scm:git:git@github.com:imagej/imagej-ui-awt</developerConnection>
-		<tag>HEAD</tag>
+		<tag>imagej-ui-awt-0.3.1</tag>
 		<url>https://github.com/imagej/imagej-ui-awt</url>
 	</scm>
 	<issueManagement>
