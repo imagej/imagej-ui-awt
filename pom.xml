@@ -81,7 +81,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/imagej/imagej-ui-awt</connection>
+		<connection>scm:git:https://github.com/imagej/imagej-ui-awt</connection>
 		<developerConnection>scm:git:git@github.com:imagej/imagej-ui-awt</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/imagej/imagej-ui-awt</url>
